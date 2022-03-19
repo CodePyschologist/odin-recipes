@@ -19,3 +19,9 @@ div {
     text-align: center;
     font-weight: bold;
 }
+
+div {
+    background: blue;
+    color:red;
+    font-size: 32px;
+}
